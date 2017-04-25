@@ -1,28 +1,28 @@
 <svg height="398" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="398" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 04:43:27 +0000   313803 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 04:43:27 +0000     1813 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 04:43:27 +0000    11357 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 04:43:27 +0000     2873 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 04:43:27 +0000    39323 bytes  dist/incremental-dom-cjs.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 04:43:27 +0000    62179 bytes  dist/incremental-dom-cjs.js.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 04:43:27 +0000     6309 bytes  dist/incremental-dom-min.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 04:43:27 +0000    48606 bytes  dist/incremental-dom-min.js.map</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 04:43:27 +0000    35245 bytes  dist/incremental-dom.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 04:43:27 +0000    57136 bytes  dist/incremental-dom.js.map</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 04:43:27 +0000     1128 bytes  index.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 04:43:27 +0000     3785 bytes  package.json</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 04:43:27 +0000     5532 bytes  src/assertions.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 04:43:27 +0000     4473 bytes  src/attributes.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 04:43:27 +0000     1618 bytes  src/context.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 04:43:27 +0000    12067 bytes  src/core.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 04:43:27 +0000     3028 bytes  src/dom_util.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 04:43:27 +0000     3945 bytes  src/node_data.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 04:43:27 +0000     1969 bytes  src/nodes.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 04:43:27 +0000     1120 bytes  src/notifications.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 04:43:27 +0000      724 bytes  src/symbols.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 04:43:27 +0000     1396 bytes  src/util.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 04:43:27 +0000     8177 bytes  src/virtual_elements.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 06:24:46 +0000   313803 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 06:24:46 +0000     1813 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 06:24:46 +0000    11357 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 06:24:46 +0000     2873 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 06:24:46 +0000    39323 bytes  dist/incremental-dom-cjs.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 06:24:46 +0000    62179 bytes  dist/incremental-dom-cjs.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 06:24:46 +0000     6309 bytes  dist/incremental-dom-min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 06:24:46 +0000    48606 bytes  dist/incremental-dom-min.js.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 06:24:46 +0000    35245 bytes  dist/incremental-dom.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 06:24:46 +0000    57136 bytes  dist/incremental-dom.js.map</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 06:24:46 +0000     1128 bytes  index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 06:24:46 +0000     3785 bytes  package.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 06:24:46 +0000     5532 bytes  src/assertions.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 06:24:46 +0000     4473 bytes  src/attributes.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 06:24:46 +0000     1618 bytes  src/context.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 06:24:46 +0000    12067 bytes  src/core.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 06:24:46 +0000     3028 bytes  src/dom_util.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 06:24:46 +0000     3945 bytes  src/node_data.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 06:24:46 +0000     1969 bytes  src/nodes.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 06:24:46 +0000     1120 bytes  src/notifications.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 06:24:46 +0000      724 bytes  src/symbols.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 06:24:46 +0000     1396 bytes  src/util.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 06:24:46 +0000     8177 bytes  src/virtual_elements.js</tspan>
 </text>
 </svg>
