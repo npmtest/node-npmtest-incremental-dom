@@ -1,6 +1,6 @@
 # npmtest-incremental-dom
 
-#### test coverage for  [incremental-dom (v0.5.1)](https://github.com/google/incremental-dom#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-incremental-dom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-incremental-dom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-incremental-dom.svg)](https://travis-ci.org/npmtest/node-npmtest-incremental-dom)
+#### basic test coverage for  [incremental-dom (v0.5.1)](https://github.com/google/incremental-dom#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-incremental-dom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-incremental-dom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-incremental-dom.svg)](https://travis-ci.org/npmtest/node-npmtest-incremental-dom)
 
 #### An in-place virtual DOM library
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-incremental-dom/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-incremental-dom/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-incremental-dom/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-incremental-dom/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-incremental-dom/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-incremental-dom/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-incremental-dom/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-incremental-dom/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-incremental-dom/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-incremental-dom/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-incremental-dom/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-incremental-dom/build/coverage.html/index.html)
 
@@ -116,7 +116,8 @@
         "prepublish": "npm run dist",
         "test": "gulp unit"
     },
-    "version": "0.5.1"
+    "version": "0.5.1",
+    "bin": {}
 }
 ```
 

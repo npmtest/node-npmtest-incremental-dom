@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [incremental-dom (v0.5.1)](https://github.com/google/incremental-dom#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-incremental-dom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-incremental-dom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-incremental-dom.svg)](https://travis-ci.org/npmtest/node-npmtest-incremental-dom)",
+    "description": "#### basic test coverage for  [incremental-dom (v0.5.1)](https://github.com/google/incremental-dom#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-incremental-dom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-incremental-dom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-incremental-dom.svg)](https://travis-ci.org/npmtest/node-npmtest-incremental-dom)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "incremental-dom": "*",
